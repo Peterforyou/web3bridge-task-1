@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://lucent-puppy-5fa3a9.netlify.app/)
+- Live Site URL:(https://lucent-puppy-5fa3a9.netlify.app/)
 
 ## My process
 
