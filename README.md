@@ -25,7 +25,7 @@ The challenge is to build out this 3-column preview card component and get it lo
 
 ### Links
 
-- Live Site URL:(https://lucent-puppy-5fa3a9.netlify.app/)
+- Live Site URL:(https://peterforyou.github.io/web3bridge-task-1/)
 
 ## My process
 
