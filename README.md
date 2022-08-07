@@ -27,7 +27,6 @@ The challenge is to build out this 3-column preview card component and get it lo
 
 - Live Site URL:(https://peterforyou.github.io/web3bridge-task-1/)
 
-## My process
 
 ### Built with
 
