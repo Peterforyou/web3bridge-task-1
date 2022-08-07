@@ -19,10 +19,6 @@ This is a task from Frontend Mentor to build a 3-column preview card componet to
 ### The challenge
 The challenge is to build out this 3-column preview card component and get it looking as close to the design given as possible.
 
-Users should be able to:
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
-
 ### Screenshot
 
 ![](./images/Annotation%202022-08-06%20013555.png)
@@ -43,7 +39,6 @@ Users should be able to:
 
 I learnt how to aplly one class to multiple divs and style them once than having multiple classes and styles, it was interesting building this project.
 
-To see how you can add code snippets, see below:
 
 ```html
  <div class="box">box
@@ -54,7 +49,6 @@ To see how you can add code snippets, see below:
     font-size: 14px;
   }
 ```
-
 ### Continued development    
 
 I would love focusing more on Css flexbox especially when it comes to flexing multiple boxes with same class since i havent't been grinded on it.

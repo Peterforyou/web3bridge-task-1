@@ -51,6 +51,11 @@
     padding: 20px 40px;
     border-radius: 20px;
   }
+    .btn:hover, .btn-1:hover, .btn-2:hover {
+    background-color: transparent;
+    color: #fff;
+    border: 2px solid #fff;
+  }
   .box:first-child {
     background-color: hsl(31, 77%, 52%);
     padding: 40px;
