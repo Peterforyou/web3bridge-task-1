@@ -3,7 +3,6 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
@@ -15,9 +14,6 @@
 
 ## Overview
 This is a task from Frontend Mentor to build a 3-column preview card componet to aid my proficiency in learning Css flexbox.
-
-### The challenge
-The challenge is to build out this 3-column preview card component and get it looking as close to the design given as possible.
 
 ### Screenshot
 
@@ -36,7 +32,7 @@ The challenge is to build out this 3-column preview card component and get it lo
 
 ### What I learned
 
-I learnt how to aplly one class to multiple divs and style them once than having multiple classes and styles, it was interesting building this project.
+I learnt how to apply one class to multiple divs and style them once than having multiple classes and styles, it was interesting building this project.
 
 
 ```html
@@ -50,14 +46,12 @@ I learnt how to aplly one class to multiple divs and style them once than having
 ```
 ### Continued development    
 
-I would love focusing more on Css flexbox especially when it comes to flexing multiple boxes with same class since i havent't been grinded on it.
+I would be focusing more on CSS flexbox especially when it comes to flexing multiple boxes with same class since i havent't been grinded on it.
 
 ## Author
 
-- Name -(Peter Bit)
-- Frontend Mentor -(https://www.frontendmentor.io/profile/yourusername)
-- Twitter - (https://www.twitter.com/@Peterbyte2)
+- Name - [Peter Bit](https://www.twitter.com/Peterbyte2)
 
 ## Acknowledgments
 
-Am giving accolades to my dear self for writing this code up, it wasn't a difficult one but i still acknowledge web3bridge for this beautiful and educative task. Its an eye opener.
+Am giving accolades to my dear self for writing this code up, it wasn't a difficult one but i still acknowledge [Web3Bridge](https://www.web3bridge.com) for this beautiful and educative task. Its an eye opener.
